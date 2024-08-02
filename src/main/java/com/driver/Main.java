@@ -5,6 +5,6 @@ public class Main {
 
     public static void main(String[] args) {
         B C = new B();
-        C.meth();
+        System.out.println(C.meth());
     }
 }
