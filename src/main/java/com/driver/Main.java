@@ -18,7 +18,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        B C = new B();
-        C.meth();
+        B objB = new B();
+        objB.meth();
     }
 }
