@@ -6,5 +6,9 @@ public class Main {
         classA B = new classA();
         B.meth();
 
+        classB c = new classB();
+        c.meth();
+
+
     }
 }
